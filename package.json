@@ -1,6 +1,6 @@
 {
   "name": "react-native-reanimated-v1",
-  "version": "1.13.5",
+  "version": "1.13.6",
   "description": "More powerful alternative to Animated library for React Native.",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -94,8 +94,7 @@
   },
   "release-it": {
     "hooks": {
-      "before:git:bump": [
-      ]
+      "before:git:bump": []
     }
   },
   "@react-native-community/bob": {
